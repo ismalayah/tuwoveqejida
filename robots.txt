@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://tuwoveqejida.b-cdn.net/sitemap.xml
